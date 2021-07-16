@@ -47,7 +47,7 @@ body {
 .image {
     width: 100%;
     /* box-shadow: 2px 2px 20px 12px rgb(0, 0, 0, 0.1); */
-    /* border: hsl(0, 0%, 90%); */
+    border: rgb(0, 0, 0, 0.1);
 }
 
 .image1, .image2, .image3, .image4 {
