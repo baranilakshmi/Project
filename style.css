@@ -113,8 +113,8 @@ ul {
 .image1, .image2, .image3, .image4, .image5 {
     margin-top: 32px;
     background: white;
-    width: 180px;
-    height: 220px;
+    width: 140px;
+    height: 200px;
     border-radius: 20px;
     /* position: relative; */
     display: flex;
@@ -170,9 +170,9 @@ ul {
     margin-top: 16px;
     border: 2px solid red;
 }
-
-@media screen and (max-width:380) {
-    .image1, .image2, .image3, .image4 {
+/* 
+@media screen and (max-width:380) { */
+    /* .image1, .image2, .image3, .image4 {
         width: 140px;
         height: 200px;
     }
@@ -181,7 +181,7 @@ ul {
         flex-wrap: wrap;
     }
     
-}
+} */
 
 @media screen and (max-width:600px){
     .sidenav {
